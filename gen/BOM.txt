@@ -1,0 +1,27 @@
+
+
+Part   Value        Package      Description                          
+C1     47 µF        CLV-0605     POLARIZED CAPACITOR 
+C2     220 µf       CLV-0605     POLARIZED CAPACITOR 
+C3     47 nF        C0402        CAPACITOR           
+C7     1 µF         C0603        CAPACITOR           
+C8     10 µF        C1206        CAPACITOR           
+IC1    LM386M-1     SO08         Low Voltage Audio Power Amplifier    
+IC2    40106        SO14         Hex SCHMITT TRIGGER                  
+LED1                LED3MM       LED 3mm                                 
+LED2                SMD          LED                                  
+R1     10 Ω         R2512        RESISTOR            
+R2     150 Ω        R1206        RESISTOR            
+R3     1,8 kΩ       R1206        RESISTOR            
+R4     LDR 1MΩ      0204V        RESISTOR            
+R5     270Ω         R2512        RESISTOR            
+R6     270Ω         R2512        RESISTOR            
+R8     100 Ω        R1206        RESISTOR            
+R9     0Ω           R1206        RESISTOR            
+R10    0Ω           R1206        RESISTOR            
+R12    10 kΩ        R1206        RESISTOR            
+R13    10 kΩ        R1206        RESISTOR                                                 
+U$1    SMALLPOT     SMALLPOT           SMALLPOT                                          
+U$2    BYLARMSWITCH BYLARMSWITCH       BYLARMSWITCH                                      
+VBATT
+SPKR                                    
