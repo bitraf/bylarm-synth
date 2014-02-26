@@ -14315,7 +14315,7 @@ Source: www.kingbright.com</description>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="C7" library="rcl" deviceset="C-EU" device="C0603" value="1µF"/>
 <part name="C8" library="rcl" deviceset="C-EU" device="C1206" value="10µF"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="R1206" value="1,5 kΩ"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="R1206" value="100 Ω"/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R1206" value="10 kΩ"/>
 <part name="R13" library="rcl" deviceset="R-EU_" device="R1206" value="10 kΩ"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
@@ -14331,11 +14331,11 @@ Source: www.kingbright.com</description>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R2512" value="10 Ω"/>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0402" value="47nF"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="R1206" value="150 Ω"/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="R1206" value="1,5 kΩ"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="R1206" value="1,8 kΩ"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="0204/2V" value="LDR 1MΩ"/>
 <part name="U$1" library="smallpot" deviceset="SMALLPOT" device=""/>
-<part name="R5" library="rcl" deviceset="R-EU_" device="R2512" value="220Ω"/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="R2512" value="220Ω"/>
+<part name="R5" library="rcl" deviceset="R-EU_" device="R2512" value="270Ω"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="R2512" value="270Ω"/>
 <part name="SUPPLY3" library="supply2" deviceset="VPP" device=""/>
 <part name="SUPPLY4" library="supply2" deviceset="VPP" device=""/>
 <part name="LED1" library="led" deviceset="LED" device="3MM"/>
