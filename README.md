@@ -8,6 +8,6 @@ The electronics is mostly surface-mount technology and designed to be soldered u
 Credits
 ========
 * Vidar Kristiansen
-* Jens Dyvik
+* [Jens Dyvik](http://dyvikdesign.com)
 * Thomas Winther
-* Jon Nordby
+* [Jon Nordby](http://jonnor.com)
